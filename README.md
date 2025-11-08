@@ -109,17 +109,41 @@ The dashboard addresses critical business questions across six key dimensions, e
 
 ## 📸 Screenshots
 
-> 📌 **Note:** Add your dashboard screenshots here to showcase the visual appeal and functionality
+### 🏪 Restaurant Performance Analysis
+![Restaurant Performance Dashboard](screenshots/restaurant-performance.png)
+*Comprehensive view of restaurant order trends, decline rates, and performance breakdown across crisis phases*
+
+**Key Metrics Shown:**
+- 📊 Overall order decline rate: **71.86%** across all restaurants
+- 🔴 Highest drop: Royal Curry Mahal at **96.00%**
+- 🟢 Lowest drop: Thindi Mane Paratha Zone at **49.06%**
+- 📉 Top 10 restaurants with biggest declines
+- 🎯 Restaurant performance breakdown with pre/post crisis comparison
+
+---
+
+### 💡 Strategic Insights & Customer Feedback
+![Strategic Insights Dashboard](screenshots/strategic-insights.png)
+*Deep dive into customer feedback, trust factors, and revenue distribution patterns*
+
+**Analysis Highlights:**
+- 🔍 **Key Insights:** Trust erosion and restaurant-cloud kitchen dynamics
+- ✅ **Strategic Implications:** Food safety focus and quality assurance recommendations
+- 📊 **Top Negative Feedback Reasons:** Food quality issues (2,292 mentions)
+- 💰 **Revenue Distribution:** Restaurant vs Cloud Kitchen analysis
+- 📈 **Discount Impact:** Orders with vs without discounts tracked monthly
+- 📉 **Sales Trends:** Restaurant performance vs Cloud Kitchen comparison
+
+---
 
 <details>
-<summary>Click to view screenshot structure</summary>
+<summary>📁 Screenshot Files Structure</summary>
 
 ```
 screenshots/
-├── overview-dashboard.png
-├── customer-analysis.png
-├── delivery-performance.png
-└── sentiment-analysis.png
+├── restaurant-performance.png
+├── strategic-insights.png
+└── [add more screenshots here]
 ```
 
 </details>
