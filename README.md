@@ -4,7 +4,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CodeBasics-blue?style=for-the-badge)
 
 ### A comprehensive Power BI analytics solution designed to guide an online food delivery startup through crisis recovery by providing actionable insights across customer behavior, operations, and business strategy.
 
