@@ -12,7 +12,7 @@
   <img src="dashboard_views/thumbnail.png" alt="QuickByte Express Dashboard" width="800"/>
 </p>
 
-[View Demo](#-screenshots) · [Report Bug](https://github.com/yourusername/quickbyte-express/issues) · [Request Feature](https://github.com/yourusername/quickbyte-express/issues)
+[View Demo](#-screenshots) · [Report Bug](https://github.com/ghorimon/quickbyte-express/issues) · [Request Feature](https://github.com/ghorimon/quickbyte-express/issues)
 
 </div>
 
@@ -24,10 +24,8 @@
 - [Key Features](#-key-features)
 - [Screenshots](#-screenshots)
 - [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
 - [Data Sources](#-data-sources)
 - [Dashboard Insights](#-dashboard-insights)
-- [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
 - [Acknowledgments](#-acknowledgments)
 - [License](#-license)
@@ -145,6 +143,7 @@ The dashboard addresses critical business questions across six key dimensions, e
 
 ```
 dashboard_views/
+├── thumbnail.png
 ├── P3.png
 ├── S3.png
 └── [add more screenshots here]
@@ -181,7 +180,7 @@ This project utilizes CSV datasets covering various aspects of the food delivery
 |---------|-------------|--------|
 | `dim_customer.csv` | Customer demographics and segmentation data | CSV |
 | `dim_delivery_partner.csv` | Delivery Partner Data | CSV |
-| `dim_menu_item.csv` | Menu item details(prices,etc) | CSV |
+| `dim_menu_item.csv` | Menu item details (prices, etc.) | CSV |
 | `dim_restaurant.csv` | Restaurant demographics and other info | CSV |
 | `fact_delivery_performance.csv` | Delivery performance data | CSV |
 | `fact_ratings.csv` | Ratings given by customers | CSV |
@@ -190,7 +189,7 @@ This project utilizes CSV datasets covering various aspects of the food delivery
 
 ### 🔄 Data Refresh
 
-- Data is imported from CSV files located in the `data/` folder
+- Data is imported from CSV files located in the `datasets/` folder
 - To update with new data, replace CSV files and refresh the Power BI report
 - Ensure new data maintains the same schema structure
 
@@ -242,29 +241,6 @@ Guides recovery efforts with:
 
 ---
 
-## 📂 Project Structure
-
-```
-quickbyte-express/
-│
-├── data/                          # CSV datasets
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── delivery.csv
-│   ├── restaurants.csv
-│   ├── feedback.csv
-│   └── campaigns.csv
-│
-├── screenshots/                   # Dashboard screenshots
-│   └── ...
-│
-├── QuickByte_Express_Dashboard.pbix  # Main Power BI file
-├── README.md                      # Project documentation
-└── LICENSE                        # License file
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve this project:
@@ -295,17 +271,17 @@ This project is part of the **Codebasics Resume Project Challenge** and follows 
 
 **RIMON GHOSH**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimonghosh/)
 [![NovyPro](https://img.shields.io/badge/NovyPro-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)](https://project.novypro.com/kIuIgd)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?OuCA8RfgszA)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OuCA8RfgszA)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghorimon)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimonsarbajitghosh@gmail.com)
 
 **Project Links:**
 - 🎥 [Watch Video Presentation on YouTube](https://www.youtube.com/watch?v=OuCA8RfgszA)
 - 📊 [View Live Dashboard on NovyPro](https://project.novypro.com/kIuIgd)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/rimonghosh/)
-- 🐙 [GitHub Repository](https://github.com/ghorimon/quickbyte-express)
+- 🐙 [GitHub Repository](https://github.com/ghorimon/QuickByte)
 
 ---
 
