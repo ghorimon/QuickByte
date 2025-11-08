@@ -325,9 +325,9 @@ This project is part of the **Codebasics Resume Project Challenge** and follows 
 
 **Project Links:**
 - 🎥 [Watch Video Presentation on YouTube](https://www.youtube.com/watch?v=OuCA8RfgszA)
-- 📊 [View Live Dashboard on NovyPro](https://www.novypro.com/profile_projects/yourprofile)
-- 💼 [Connect on LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub Repository](https://github.com/yourusername/quickbyte-express)
+- 📊 [View Live Dashboard on NovyPro](https://www.novypro.com/create_project/quickbyte-express--consumer-analytics-and-crisis-recovery)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/rimonghosh/)
+- 🐙 [GitHub Repository](https://github.com/ghorimon/quickbyte-express)
 
 ---
 
