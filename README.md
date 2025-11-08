@@ -203,12 +203,14 @@ This project utilizes CSV datasets covering various aspects of the food delivery
 
 | Dataset | Description | Format |
 |---------|-------------|--------|
-| `customers.csv` | Customer demographics and segmentation data | CSV |
-| `orders.csv` | Order transactions across all phases | CSV |
-| `delivery.csv` | Delivery performance and SLA metrics | CSV |
-| `restaurants.csv` | Restaurant partner information | CSV |
-| `feedback.csv` | Customer ratings and reviews | CSV |
-| `campaigns.csv` | Marketing campaign data | CSV |
+| `dim_customer.csv` | Customer demographics and segmentation data | CSV |
+| `dim_delivery_partner.csv` | Delivery Partner Data | CSV |
+| `dim_menu_item.csv` | Menu item details(prices,etc) | CSV |
+| `dim_restaurant.csv` | Restaurant demographics and other info | CSV |
+| `fact_delivery_performance.csv` | Delivery performance data | CSV |
+| `fact_ratings.csv` | Ratings given by customers | CSV |
+| `fact_orders.csv` | Order level details per order | CSV |
+| `fact_order_items.csv` | Order items data | CSV |
 
 ### 🔄 Data Refresh
 
@@ -325,7 +327,7 @@ This project is part of the **Codebasics Resume Project Challenge** and follows 
 
 **Project Links:**
 - 🎥 [Watch Video Presentation on YouTube](https://www.youtube.com/watch?v=OuCA8RfgszA)
-- 📊 [View Live Dashboard on NovyPro](https://www.novypro.com/create_project/quickbyte-express--consumer-analytics-and-crisis-recovery)
+- 📊 [View Live Dashboard on NovyPro](https://project.novypro.com/kIuIgd)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/rimonghosh/)
 - 🐙 [GitHub Repository](https://github.com/ghorimon/quickbyte-express)
 
