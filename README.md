@@ -110,7 +110,7 @@ The dashboard addresses critical business questions across six key dimensions, e
 ## 📸 Screenshots
 
 ### 🏪 Restaurant Performance Analysis
-![Restaurant Performance Dashboard](screenshots/restaurant-performance.png)
+![Restaurant Performance Dashboard](dashboard_views/P3.png)
 *Comprehensive view of restaurant order trends, decline rates, and performance breakdown across crisis phases*
 
 **Key Metrics Shown:**
@@ -123,7 +123,7 @@ The dashboard addresses critical business questions across six key dimensions, e
 ---
 
 ### 💡 Strategic Insights & Customer Feedback
-![Strategic Insights Dashboard](screenshots/strategic-insights.png)
+![Strategic Insights Dashboard](dashboard_views/S3.png)
 *Deep dive into customer feedback, trust factors, and revenue distribution patterns*
 
 **Analysis Highlights:**
