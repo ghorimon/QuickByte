@@ -320,7 +320,7 @@ This project is part of the **Codebasics Resume Project Challenge** and follows 
 **RIMON GHOSH**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![NovyPro](https://img.shields.io/badge/NovyPro-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)](https://www.novypro.com/profile_projects/yourprofile)
+[![NovyPro](https://img.shields.io/badge/NovyPro-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)](https://project.novypro.com/kIuIgd)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?OuCA8RfgszA)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
