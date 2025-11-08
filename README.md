@@ -169,34 +169,6 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🚀 Installation
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/quickbyte-express.git
-cd quickbyte-express
-```
-
-### Step 2: Open the Power BI File
-
-1. Navigate to the project directory
-2. Open `QuickByte_Express_Dashboard.pbix` with Power BI Desktop
-
-### Step 3: Refresh Data Connections
-
-1. Click on **Home** → **Refresh** in Power BI Desktop
-2. If prompted, update data source paths to point to the CSV files in the `data/` folder
-3. Review and apply any pending transformations
-
-### Step 4: Explore the Dashboard
-
-- Navigate through different report pages
-- Interact with filters and slicers
-- Drill down into specific metrics
-
----
-
 ## 📁 Data Sources
 
 This project utilizes CSV datasets covering various aspects of the food delivery business:
