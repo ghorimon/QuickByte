@@ -8,6 +8,10 @@
 
 ### A comprehensive Power BI analytics solution designed to guide an online food delivery startup through crisis recovery by providing actionable insights across customer behavior, operations, and business strategy.
 
+<p align="center">
+  <img src="dashboard_views/thumbnail.png" alt="QuickByte Express Dashboard" width="800"/>
+</p>
+
 [View Demo](#-screenshots) · [Report Bug](https://github.com/yourusername/quickbyte-express/issues) · [Request Feature](https://github.com/yourusername/quickbyte-express/issues)
 
 </div>
