@@ -140,9 +140,9 @@ The dashboard addresses critical business questions across six key dimensions, e
 <summary>📁 Screenshot Files Structure</summary>
 
 ```
-screenshots/
-├── restaurant-performance.png
-├── strategic-insights.png
+dashboard_views/
+├── P3.png
+├── S3.png
 └── [add more screenshots here]
 ```
 
@@ -309,7 +309,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is part of the **Codebasics Resume Project Challenge** and follows their guidelines and terms.
 
 ---
 
@@ -318,8 +318,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![NovyPro](https://img.shields.io/badge/NovyPro-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)](https://www.novypro.com/profile_projects/yourprofile)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?OuCA8RfgszA)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+**Project Links:**
+- 🎥 [Watch Video Presentation on YouTube](https://www.youtube.com/watch?v=your-video-id)
+- 📊 [View Live Dashboard on NovyPro](https://www.novypro.com/profile_projects/yourprofile)
+- 💼 [Connect on LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐙 [GitHub Repository](https://github.com/yourusername/quickbyte-express)
 
 ---
 
@@ -328,5 +336,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### ⭐ If you find this project helpful, please give it a star!
 
 **Made with ❤️ for the Codebasics Resume Project Challenge**
+
+[![Codebasics](https://img.shields.io/badge/Codebasics-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==&logoColor=white)](https://codebasics.io/)
 
 </div>
